@@ -65,8 +65,22 @@ space. This is probably the most important section!
   addressed in the future independently of the solution that comes out of this
   RFC?
 
+  # Deployment Impact
+  [deployment-impact]: #deployment-impact
+
+  Describe how this design will be deployed and any potential imapact it may have on
+  current users of this project.
+
+  - How will current users be impacted?
+
+  - How will existing documentation/knowlegebase need to be supported?
+
+  - Is this backwards compatible?
+
+    - If not, what is the procedure to migrate?
+
   # Success Metrics
-  [success-metrics] #success-metrics
+  [success-metrics]: #success-metrics
 
   What metrics can be used to measure the success of this design?
 
@@ -75,3 +89,5 @@ space. This is probably the most important section!
   - What should we measure to prove an improvement in stability?
 
   - What should we measure to prove a reduction in complexity?
+
+  - What should we measure to prove an acceptance of this by it's users?
