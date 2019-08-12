@@ -64,3 +64,14 @@ space. This is probably the most important section!
 - What related issues do you consider out of scope for this RFC that could be
   addressed in the future independently of the solution that comes out of this
   RFC?
+
+  # Success Metrics
+  [success-metrics] #success-metrics
+
+  What metrics can be used to measure the success of this design?
+
+  - What should we measure to prove a performance increase?
+
+  - What should we measure to prove an improvement in stability?
+
+  - What should we measure to prove a reduction in complexity?
